@@ -92,7 +92,7 @@ var Maruju = function (element, width, height) {
 
 	sans.queueText([
 		"So I heard you wanted to have a bad time.",
-		"Well, you came to the right place."
+		"Well, you came to the right place.",
 		"Endless Sans by Joe Zeng"
 	]);
 
